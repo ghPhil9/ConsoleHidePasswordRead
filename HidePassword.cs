@@ -3,7 +3,7 @@ using System.Text;
 
 namespace ConsoleApp1
 {
-    internal class HidePassword
+    internal static class HidePassword
     {
         internal static string Read()
         {
